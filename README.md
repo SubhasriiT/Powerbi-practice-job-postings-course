@@ -8,6 +8,27 @@ This is **not an original independent analysis**. The dataset, business question
 ## Dataset
 `job_postings_flat` — a global data-job-postings dataset (used throughout the course) containing fields such as `job_title`, `job_country`, `salary_year_avg`, `salary_hour_avg`, `job_skills`, `job_work_from_home`, `job_no_degree_mention`, and `job_posted_date`.
 
+## Preview
+
+### Project #1: Data Jobs Dashboard
+![Data Jobs Dashboard](Images/Project%201%20-%20Data%20Jobs%20Dashboard.jpg)
+
+### Project #1: Job Title Drill Through
+![Job Title Drill Through](Images/Project%201%20-%20Job%20Title%20Drill%20Through.jpg)
+
+## Page Gallery
+
+| | |
+|---|---|
+| ![Column and Bar Charts](Images/Column%20&%20Bar%20Charts.jpg)<br>**1. Column & Bar Charts**<br>Bar, clustered column, stacked and 100% stacked charts comparing median salaries and no-degree postings by job title | ![Line and Area Charts](Images/Line%20&%20Area%20Chart.jpg)<br>**2. Line & Area Charts**<br>Job posting trends across 2024, with trend lines, drill-down, stacked area, and a column + line combo chart |
+| ![Common Charts](Images/Common%20Charts.jpg)<br>**3. Common Charts**<br>Pie, donut, treemap and scatter plot showing no-degree share, WFH share, job types, and hourly vs yearly salary | ![Map Charts](Images/Map%20Charts.png)<br>**4. Map Charts**<br>Bubble map and filled map showing where data jobs are posted globally |
+| ![Uncommon Charts](Images/Uncommon%20Charts.jpg)<br>**5. Uncommon Charts**<br>Ribbon chart for salary rank over time, plus waterfall and funnel charts | ![Tables and Matrices](Images/Tables.jpg)<br>**6. Tables & Matrices**<br>Table with star-rating measure and icons, plus matrices with data bars, gradients and sparklines |
+| ![Cards](Images/Cards.jpg)<br>**7. Cards**<br>Card, new card, multi-row card, gauge and KPI visuals for headline salary numbers | ![Slicers](Images/Slicers.jpg)<br>**8. Slicers**<br>List, dropdown and date and salary range slicers with a clear-all-slicers button | |
+
+## Files
+- 📁 `Images/`: screenshots of every page
+- 📊 `Visualization Section.pbix`: the full Power BI report (open with Power BI Desktop)
+
 ## Progress: Part 1 complete — Visualizations chapter + Project #1
 
 | Page | Chart types | What I did |
