@@ -18,10 +18,10 @@ Covers the DAX chapter of Luke Barousse's Power BI course: calculated tables, ex
 
 | | |
 |---|---|
-| ![Calculated Table](Images/Calculated%20Table.png)<br>**Calculated Table**<br>Daily job posting trend and postings by weekday, using the DAX-built date table | ![Measures](Images/Measures.png)<br>**Measures**<br>Cards and bar charts for job demand, top skills and salaries, all driven by explicit measures |
-| ![Skills vs Salary](Images/Skills%20vs%20Salary.png)<br>**Skills vs Salary**<br>Skill Count, Skills per Job and a scatter plot of skills vs median salary by job title | ![Explicit Measures Problem](Images/Explicit%20Measures%20Problem.png)<br>**Explicit Measures Problem**<br>Practice problem: salary min/median/max, target status and percentages by job title |
-| ![Field Parameters](Images/Parameters.png)<br>**Field Parameters**<br>Field parameters that switch the chart category and measure | ![Numeric Range Parameters](Images/Parameters%202.png)<br>**Numeric Range Parameters**<br>Deduction-rate slider showing median yearly take-home pay next to median yearly salary |
-| ![Parameters Problem](Images/Parameters%20Problem.png)<br>**Parameters Problem**<br>Practice problem: salary target slider, a salary statistic selector and a target line | |
+| ![Calculated Table](Images/Calculated%20Table.jpg)<br>**Calculated Table**<br>Daily job posting trend and postings by weekday, using the DAX-built date table | ![Measures](Images/Measures.jpg)<br>**Measures**<br>Cards and bar charts for job demand, top skills and salaries, all driven by explicit measures |
+| ![Skills vs Salary](Images/Skills%20vs%20Salary.jpg)<br>**Skills vs Salary**<br>Skill Count, Skills per Job and a scatter plot of skills vs median salary by job title | ![Explicit Measures Problem](Images/Explicit%20Measures%20Problem.jpg)<br>**Explicit Measures Problem**<br>Practice problem: salary min/median/max, target status and percentages by job title |
+| ![Field Parameters](Images/Parameters.jpg)<br>**Field Parameters**<br>Field parameters that switch the chart category and measure | ![Numeric Range Parameters](Images/Parameters%202.jpg)<br>**Numeric Range Parameters**<br>Deduction-rate slider showing median yearly take-home pay next to median yearly salary |
+| ![Parameters Problem](Images/Parameters%20Problem.jpg)<br>**Parameters Problem**<br>Practice problem: salary target slider, a salary statistic selector and a target line | |
 
 
 ## What I learned
