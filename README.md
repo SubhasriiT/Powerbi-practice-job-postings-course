@@ -14,18 +14,18 @@ This is **not an original independent analysis**. The dataset, business question
 |------|----------------|--------|--------|
 | 1 | Visualizations + Project #1 (Data Jobs Dashboard) | Complete | [01-Visualization](01-Visualization/) |
 | 2 | Power Query (import, transformations, append vs merge, M language) | Complete | [02-Power-Query](02-Power-Query/) |
-| 3 | DAX (explicit measures, parameters) | Up next | Coming soon |
+| 3 | DAX (calculated tables, explicit measures, parameters) | Complete | [03-DAX](03-DAX/) |
 
 ## Repo structure
 ```
 README.md                  overview (this file)
 01-Visualization/          Part 1: charts, interactivity, Project #1
 02-Power-Query/            Part 2: data cleaning and modeling
+03-DAX/                    Part 3: date table, measures, parameters
 ```
 
 ## What I'm learning next
-- DAX (Explicit Measures, Parameters)
-- Course Project #2 (Dashboard Build, Share Dashboard)
+- Course final project (Project #2: Dashboard Build, Share Dashboard)
 - After the course: building a Power BI project from a self-chosen dataset and business question, independent of the course
 
 ## Why this is here
